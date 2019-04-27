@@ -3,4 +3,7 @@
 members = [
     "hello-world",
     "reverse-string",
+    "leap",
+    "raindrops",
+    "nth-prime",
 ]
