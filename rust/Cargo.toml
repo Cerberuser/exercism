@@ -8,4 +8,5 @@ members = [
     "nth-prime",
     "gigasecond",
     "bob",
+    "beer-song",
 ]
