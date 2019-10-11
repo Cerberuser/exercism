@@ -9,4 +9,5 @@ members = [
     "gigasecond",
     "bob",
     "beer-song",
+    "clock",
 ]
